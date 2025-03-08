@@ -1,5 +1,4 @@
-
-![logo](https://github.com/vasu2131/N_Vasantha_Kumar/blob/main/Banner.png)
+![logo](https://github.com/vasu2131/vasu2131/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm N VASANTHA KUMAR</h1>
 <h3 align="center">Backend developer skilled in Java,SQL and web technologies from India</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/ab/e5/57/abe557b5780fc93e83447ac60987d000.gif">
